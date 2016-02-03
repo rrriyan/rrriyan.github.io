@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rrriyan.github.io
+title: Trial resbaz
+email: 
+author: rrriyan
+description: trying this web as part of resbaz
+paginate: 3
+google_analytics: 
