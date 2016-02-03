@@ -5,3 +5,5 @@ layout: post
 ---
 Average monthly maximum temperature 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~rrriyan/5.embed"></iframe>
+
+Average monthly minimum temperature
